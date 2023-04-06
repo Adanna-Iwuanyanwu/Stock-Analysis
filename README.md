@@ -13,7 +13,7 @@ According to Investopedia, stock is also known as shares. It represents the owne
 •	Market cap: The company’s worth.
 •	Moving Average: Calculates the average stock price over a specific period.
 
-This analysis aims to compare the performance of Microsoft, Google, Apple, and Meta stocks. 
+### This analysis aims to compare the performance of Microsoft, Google, Apple, and Meta stocks. 
 
 ## THE ANALYSIS
 My aim in doing this analysis is to see how the stocks of these tech companies have performed in the market from January 2013 to March 2023. I observed that there has been a rise in the price of the stocks in the market from 2013 till 2022 and a downtrend in the stock price in the first quarter of 2023 which shows the fluctuation of the stock prices.
